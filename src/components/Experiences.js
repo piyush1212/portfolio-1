@@ -10,7 +10,7 @@ const experiences = [
     {
         title: "Senior Frontend Engineer, Accessability",
         designation: "Serior Software Developer",
-        timeline: "2024 - Present",
+        timeline: "2019 - 2024",
         description: "lorem20Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit, velit cupiditate odit vitae modi cum consequatur asperiores omnis earum, ex ipsam nesciunt deleniti quae placeat non animi error quidem obcaecati quod eum, officia magnam sint! Incidunt iusto architecto error neque!",
         skills: ["HTML","CSS","Javascript","Java"],
     },
@@ -18,7 +18,7 @@ const experiences = [
     {
         title: "Senior Frontend Engineer, Accessability",
         designation: "Serior Software Developer",
-        timeline: "2024 - Present",
+        timeline: "2017 - 2019",
         description: "lorem20Lorem ipsum dolor sit amet consectetur, adipisicing elit. Fugit, velit cupiditate odit vitae modi cum consequatur asperiores omnis earum, ex ipsam nesciunt deleniti quae placeat non animi error quidem obcaecati quod eum, officia magnam sint! Incidunt iusto architecto error neque!",
         skills: ["HTML","CSS","Javascript","Java"],
     },
